@@ -61,4 +61,4 @@ Machine learning model deployed using FastAPI to predict credit default risk.
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/HIIAYUSHI/HIIAYUSHI/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/HIIAYUSHI/HIIAYUSHI/output/github-contribution-grid-snake.svg)
