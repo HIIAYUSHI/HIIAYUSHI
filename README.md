@@ -50,6 +50,7 @@ An LLM-based analytical system designed for:
 Machine learning model deployed using FastAPI to predict credit default risk.
 
 🔗 https://github.com/HIIAYUSHI/Credit-risk-prediction-api
+
 ---
 
 ## 📊 GitHub Stats
