@@ -57,3 +57,8 @@ Machine learning model deployed using FastAPI to predict credit default risk.
 ![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIIAYUSHI&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIIAYUSHI&layout=compact)
+---
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/HIIAYUSHI/HIIAYUSHI/blob/output/github-contribution-grid-snake.svg)
