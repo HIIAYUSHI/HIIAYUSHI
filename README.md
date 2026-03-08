@@ -4,17 +4,21 @@ Data Science & Statistics student passionate about building reliable AI systems 
 
 ---
 
-## Skills
+## 🛠️ Technical Skills
 
 **Programming:** Python, SQL  
 
-**Machine Learning:** Scikit-learn, Model Evaluation, Feature Engineering  
+**Data Science:** Pandas, NumPy, Data Cleaning, Feature Engineering  
+
+**Machine Learning:** Scikit-learn, Model Evaluation, Classification  
 
 **Deep Learning:** CNN, Transfer Learning  
 
-**LLM Systems:** Prompt Engineering, LLM Agents, Analytical Reasoning  
+**Visualization:** Matplotlib, Seaborn  
 
-**Deployment:** Streamlit, FastAPI
+**AI Systems:** LLM Agents, Prompt Engineering  
+
+**Deployment:** FastAPI, Streamlit
 
 ---
 
@@ -46,3 +50,10 @@ An LLM-based analytical system designed for:
 Machine learning model deployed using FastAPI to predict credit default risk.
 
 🔗 https://github.com/HIIAYUSHI/Credit-risk-prediction-api
+---
+
+## 📊 GitHub Stats
+
+![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIIAYUSHI&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIIAYUSHI&layout=compact)
