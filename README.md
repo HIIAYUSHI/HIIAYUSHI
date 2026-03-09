@@ -1,10 +1,10 @@
-# Hi, I'm Ayushi 👋
+# Hi, I'm Ayushi 
 
 Data Science & Statistics student passionate about building reliable AI systems using Machine Learning, Deep Learning and Large Language Models.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Programming:** Python, SQL  
 
@@ -23,7 +23,7 @@ Data Science & Statistics student passionate about building reliable AI systems 
 ---
 
 ## Featured Projects
-### 🧠 Brain Tumor Detection using CNN
+###  Brain Tumor Detection using CNN
 
 Comparative analysis of multiple CNN architectures including LeNet, AlexNet, ZFNet, VGGNet, GoogLeNet and ResNet50 for MRI-based brain tumor classification.
 
@@ -34,7 +34,7 @@ Classes: Glioma, Meningioma, Pituitary, No Tumor
 
 ---
 
-### 🤖 Self-Correcting LLM Analytical Agent
+###  Self-Correcting LLM Analytical Agent
 An LLM-based analytical system designed for:
 
 - SQL query reasoning
@@ -46,7 +46,7 @@ An LLM-based analytical system designed for:
 
 ---
 
-### 💳 Credit Risk Prediction API
+###  Credit Risk Prediction API
 Machine learning model deployed using FastAPI to predict credit default risk.
 
 🔗 https://github.com/HIIAYUSHI/Credit-risk-prediction-api
@@ -54,7 +54,7 @@ Machine learning model deployed using FastAPI to predict credit default risk.
 ---
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIIAYUSHI&show_icons=true)
 
