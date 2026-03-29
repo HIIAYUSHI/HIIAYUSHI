@@ -1,6 +1,7 @@
 # Hi, I'm Ayushi 
 
-Data Science & Statistics student passionate about building reliable AI systems using Machine Learning, Deep Learning and Large Language Models.
+Data Science & Statistics student passionate about building reliable AI systems using Machine Learning, Deep Learning and Large Language Models, work on data cleaning, dashboard development, and extracting business insights from data. 
+Currently focusing on Data Analytics, Machine Learning, and Business Intelligence projects.
 
 ---
 
@@ -14,7 +15,7 @@ Data Science & Statistics student passionate about building reliable AI systems 
 
 **Deep Learning:** CNN, Transfer Learning  
 
-**Visualization:** Matplotlib, Seaborn  
+**Visualization:** Matplotlib, Seaborn, PowerBI, Dashboard Development  
 
 **AI Systems:** LLM Agents, Prompt Engineering  
 
